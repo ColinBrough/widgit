@@ -1,3 +1,4 @@
 Some changes made to repo after init
 need to pull this file down to local
 Added a line of "config"
+Found a couple more values that need added
